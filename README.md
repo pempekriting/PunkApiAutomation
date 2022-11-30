@@ -18,4 +18,7 @@ What things you need to install:
     1. Running the project using command `npm run test`
     
 ## Report
-[Click here to check the report](https://pempekriting.github.io/PunkApiAutomation/reports/mochawesome/mochawesome.html)    
+[Click here to check the report](https://pempekriting.github.io/PunkApiAutomation/reports/mochawesome/mochawesome.html)   
+
+## Evidence
+![](docs/image%20(4).png)
