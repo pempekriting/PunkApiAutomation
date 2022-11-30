@@ -16,3 +16,6 @@ What things you need to install:
 * ### Running on local machine
 
     1. Running the project using command `npm run test`
+    
+## Report
+[Click here to check the report](https://pempekriting.github.io/PunkApiAutomation/reports/mochawesome/mochawesome.html)    
