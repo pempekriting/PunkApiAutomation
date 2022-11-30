@@ -1,0 +1,26 @@
+{
+  "name": "punkapiautomation",
+  "version": "1.0.0",
+  "description": "Automation for Punk API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./src --recursive --reporter mochawesome --reporter-options reportDir=reports/mochawesome/ --timeout 60000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pempekriting/PunkApiAutomation.git"
+  },
+  "author": "Kgs. Azzam Nizar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pempekriting/PunkApiAutomation/issues"
+  },
+  "homepage": "https://github.com/pempekriting/PunkApiAutomation#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-json-schema": "^1.5.1",
+    "mocha": "^10.1.0",
+    "mochawesome": "^7.1.3",
+    "supertest": "^6.3.1"
+  }
+}
